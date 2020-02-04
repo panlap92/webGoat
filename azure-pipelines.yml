@@ -38,6 +38,7 @@ steps:
     EntitlementPreference: '0'
     InProgressScanActionType: '0'
     RemediationScanPreference: '0'
+    PurchaseEntitlements: false
     PolicyFailAction: '1'
 
     
