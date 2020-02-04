@@ -40,6 +40,8 @@ steps:
     RemediationScanPreference: '0'
     PolicyFailAction: '1'
 
+    
+
 - task: VSTest@2
   inputs:
     platform: '$(buildPlatform)'
